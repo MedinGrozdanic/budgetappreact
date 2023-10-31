@@ -1,0 +1,99 @@
+
+.ant-table-wrapper {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+.ant-form,
+.ant-form-horizontal {
+    float: left;
+    height: 100vh;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    padding-right: 30px;
+}
+
+.ant-btn, .ant-btn-primary{
+    display:flex; 
+    
+}
+
+.ant-form-item-label {
+    display: inline-block;
+    margin: 15px 15px 15px 0px;
+    width: 80px;
+}
+
+#AddExpenseTitle {
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.expenseForm label {
+    margin: 10px
+}
+
+.ant-picker-header {
+    color: black
+}
+
+.ant-picker-header-super-prev-btn {
+    color: black
+}
+
+.ant-picker-date-panel span {
+    color: black
+}
+
+.ant-picker-prev-icon {
+    color: black;
+}
+
+.ant-row,
+.ant-form-item {
+    margin: 20px;
+    padding-right: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.ant-input-number,
+.input {
+    width: 100%;
+}
+
+.ant-pagination-item-link>* {
+    color: black;
+}
+
+#reciever {
+    height: 40px;
+}
+
+.ant-table-row-expand-icon {
+    background-color: #bfbfbf !important;
+}
+
+.ant-picker-input {
+    height: 30px;
+}
+
+.deleteButton {
+    color: white;
+    text-decoration: none;
+    background-color: #ff7875 !important;
+    padding: 1px 15px 3px 15px;
+    border-radius: 10px;
+}
+
+.ant-btn-icon-only > .anticon{
+    display: inline;
+    margin-top: 3px;
+}

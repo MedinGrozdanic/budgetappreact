@@ -1,0 +1,18 @@
+.budgetDiagramDiv {
+    justify-self: center;
+    display: block;
+    margin: 10px;
+    padding: 10px; 
+}
+
+.monthlyBudgetDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+.game-cell {
+    width: 200px;
+    margin: 10px; 
+}

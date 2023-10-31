@@ -1,0 +1,43 @@
+.header-component-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 16px;
+
+}
+
+.header-component-buttons {
+    display: flex;
+    gap: 8px;
+}
+.johannaHeader{
+    font:bold
+}
+
+.header-component-buttons button{
+    background-color: white;
+    color: black !important;
+    border: 1px solid black;
+    width: fit-content;
+}
+
+.header-component-buttons button:active{
+    background-color: #5da6ee;
+}
+
+.header-component-nav {
+    width: 100%;
+    background-color: #5da6ee;
+}
+
+.ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-item:hover, .ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-submenu:hover, .ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-item-active, .ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-submenu-active, .ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-item-open, .ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-submenu-open, .ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-item-selected, .ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-submenu-selected {
+    color: #ffffff;
+}
+
+.ant-menu-light .ant-menu-submenu-title:hover {
+    color: #ffffff;
+}
+
+.ant-layout-header {
+    padding: 0
+}

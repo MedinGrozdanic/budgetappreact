@@ -1,0 +1,20 @@
+/* .chart-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+
+} */
+
+.spentSumFieldDiv {
+    display: flex;
+    background-color: #FFFFFF;
+    height: 80px;
+    align-items: center;
+    margin-bottom: 7px;
+}
+
+.sumSpentFieldText {
+    margin: 0px 40px 0px 40px;
+}
